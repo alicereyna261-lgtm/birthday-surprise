@@ -1,5 +1,4 @@
 const screens = [...document.querySelectorAll(".screen")];
-const audio = document.getElementById("birthday-audio");
 const video = document.getElementById("birthday-video");
 
 function showScreen(id) {
@@ -24,15 +23,7 @@ document.getElementById("to-final").addEventListener("click", () => {
 });
 
 document.getElementById("replay").addEventListener("click", () => {
-  audio.pause();
   video.pause();
   showScreen("screen-welcome");
 });
 
-// Optional: update this title in index.html to match your song.
-audio.addEventListener("play", () => {
-  document.getElementById("music-icon").textContent = "♫ ♪ ♫";
-});
-audio.addEventListener("pause", () => {
-  document.getElementById("music-icon").textContent = "♫";
-});
