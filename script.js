@@ -20,7 +20,6 @@ document.getElementById("yes-bunny").addEventListener("click", () => showScreen(
 document.getElementById("to-letter").addEventListener("click", () => showScreen("screen-letter"));
 document.getElementById("to-gift").addEventListener("click", () => showScreen("screen-gift"));
 document.getElementById("to-final").addEventListener("click", () => {
-  audio.pause();
   showScreen("screen-final");
 });
 document.getElementById("replay").addEventListener("click", () => {
