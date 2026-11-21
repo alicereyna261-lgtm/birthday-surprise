@@ -22,6 +22,7 @@ document.getElementById("to-gift").addEventListener("click", () => showScreen("s
 document.getElementById("to-final").addEventListener("click", () => {
   showScreen("screen-final");
 });
+
 document.getElementById("replay").addEventListener("click", () => {
   audio.pause();
   video.pause();
