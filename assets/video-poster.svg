@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340">
+<rect width="600" height="340" rx="24" fill="#dff1ff"/>
+<circle cx="300" cy="150" r="65" fill="#fff" opacity=".85"/>
+<path d="M285 112 L340 150 L285 188 Z" fill="#76b6e3"/>
+<text x="300" y="260" text-anchor="middle" font-family="Arial" font-size="24" fill="#527d9f">YOUR BIRTHDAY VIDEO GOES HERE</text>
+</svg>

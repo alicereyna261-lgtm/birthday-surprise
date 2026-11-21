@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 500">
+<defs><linearGradient id="g" x2="0" y2="1"><stop stop-color="#dff2ff"/><stop offset="1" stop-color="#b8ddf6"/></linearGradient></defs>
+<rect width="600" height="500" fill="url(#g)"/>
+<circle cx="300" cy="225" r="128" fill="#fff" opacity=".75"/>
+<text x="300" y="195" text-anchor="middle" font-family="Arial" font-size="78">📸</text>
+<text x="300" y="290" text-anchor="middle" font-family="Arial" font-size="34" font-weight="bold" fill="#47779e">YOUR FUNNY PHOTO</text>
+<text x="300" y="340" text-anchor="middle" font-family="Arial" font-size="22" fill="#6799bd">Replace this image with your own!</text>
+<text x="80" y="90" font-size="48" fill="#fff">✦</text><text x="480" y="420" font-size="55" fill="#fff">♡</text>
+</svg>
